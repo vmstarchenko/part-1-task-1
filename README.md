@@ -120,7 +120,7 @@
   Запрос 2:
   ```json
   {
-    "adjqkklqhyx2l9ycr5zz63l3di" : -57
+    "adjqkklqhyx2l9ycr5zz63l3di" : -57,
     "jwbj1qufbekjejd1hl2bro1or": [123, 432]
   }
   ```
