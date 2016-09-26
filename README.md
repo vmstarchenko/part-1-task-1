@@ -4,7 +4,7 @@
 
 ##Прежде чем выполнять домашнее задание:
 
-1. Подготовить репозиторий: [инструкция подготовки репозитория](https://github.yandex-team.ru/elective/instructions/blob/master/homeworkRepo.md)
+1. Подготовить репозиторий: [инструкция подготовки репозитория](https://github.com/hse2016/instructions/blob/master/homeworkRepo.md)
 1. Выкачать репозиторий на свой компьютер.
 1. Открыть index.html
 1. Проверить, что в консоли появилась запись "open"
